@@ -1,4 +1,3 @@
-layout_spectrum: 0.5522273499518633
 typography_spectrum: 0.5864702688995749
 color:
   brandStrength: 0.9589863545261323
@@ -11,4 +10,6 @@ color:
     - '#F6E497'
     - '#FCFAE1'
     - '#BD8D46'
+layout_spectrum: 0.5522273499518633
 name: Dirt The Game
+description: A Dirt Track Board Game
